@@ -154,8 +154,8 @@ function teclado (datos) {
 	}
 
 	// muestro valores de X e Y
-	document.getElementById("valorx").value = "valor tifis.x: " + tifis.x;
-	document.getElementById("valory").value = "valor tifis.y: " + tifis.y;
+	// document.getElementById("valorx").value = "valor tifis.x: " + tifis.x;
+	// document.getElementById("valory").value = "valor tifis.y: " + tifis.y;
 
 	direccion = codigo;
 	dibujar();
